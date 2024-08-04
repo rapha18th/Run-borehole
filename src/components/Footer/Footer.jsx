@@ -77,7 +77,7 @@ function Footer() {
                 <img src="./icon/phone-cal.png" />
                 +263 723 985 556
               </Link>
-              <Link target="_blank" to="https://wa.link/i5l9rl">
+              <Link target="_blank" to="">
                 <img src="./icon/whatsapp.png" />
                 +263 723 985 556
               </Link>
