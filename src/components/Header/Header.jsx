@@ -21,7 +21,7 @@ function Header() {
       <div className="header">
         <div className="logo">
           <Link to="/">
-            <img src="./image/geotruth.png" />
+            <img src="./image/Runyararo.png" />
           </Link>
         </div>
         <ul className="">
@@ -46,14 +46,10 @@ function Header() {
                   Geotechinical Studies & GIS
                 </Link>
               </li>
-              <li>
-                <Link to="/mineral-prospecting-resource-mapping">
-                  Mineral Prospecting & Resource Mapping
-                </Link>
-              </li>
+
               <li>
                 <Link to="/esia-and-renewable-energy">
-                  ESIA and Renewable Energy
+                  Solar Power
                 </Link>
               </li>
             </ul>
@@ -74,7 +70,7 @@ function Header() {
       <div className="header-phone">
         <div className="top">
           <div className="logo">
-            <img className="geo" src="./image/geotruth.png" />
+            <img className="geo" src="./image/Runyararo.png" />
           </div>
           <img className="menu" onClick={toggle} src="./icon/menu.png" />
         </div>
@@ -108,16 +104,11 @@ function Header() {
                 </Link>
               </li>
               <li>
-                <Link
-                  to="/mineral-prospecting-resource-mapping"
-                  onClick={close}
-                >
-                  Mineral Prospecting & Resource Mapping
-                </Link>
+
               </li>
               <li>
                 <Link to="/esia-and-renewable-energy" onClick={close}>
-                  ESIA and Renewable Energy
+                  Solar Power
                 </Link>
               </li>
             </ul>

@@ -17,12 +17,12 @@ function Quote() {
                     <input type="email" placeholder='Your Email Adress' />
                 </div>
                 <div>
-                    <select> 
+                    <select>
                         <option value='ground'>Ground Water Management</option>
-                        <option value="surface">Surface Water Managent</option>
+
                         <option value="geotechinical">Geotechinical Studies & GIS</option>
-                        <option value="mineral">Mineral Prospecting</option>
-                        <option value="esia">ESIA & Renewable Energy</option>
+
+                        <option value="esia">Solar Power</option>
                     </select>
                     <input type="text" placeholder='Project Location' />
                 </div>

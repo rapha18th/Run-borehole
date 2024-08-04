@@ -13,7 +13,7 @@ function Testimonial() {
           <div className="cards">
             <img src="./image/one.jfif" />
             <p>
-              "Geotech Solutions' meticulous geotechnical studies were pivotal
+              " studies were pivotal
               for our project's success. Their expert insights guided informed
               decisions, significantly enhancing safety and efficiency. Highly
               recommended"
@@ -23,7 +23,7 @@ function Testimonial() {
           <div className="cards">
             <img src="./image/one.jfif" />
             <p>
-              "Choosing GeoTruth Consult Borehole Experts was the best decision
+              "Choosing Runyararo Consult Borehole Experts was the best decision
               for our water needs. Their professional team delivered a seamless
               drilling process, ensuring reliable water access. Highly recommend
               AquaDrill for any borehole project!"
@@ -33,7 +33,7 @@ function Testimonial() {
           <div className="cards">
             <img src="./image/one.jfif" />
             <p>
-              "Grateful to DEF Borehole Drilling for outstanding service.
+              "Grateful to thier Borehole Drilling for outstanding service.
               Personalized guidance, tireless effort, and exceptional results.
               Trustworthy choice for borehole drilling needs"
             </p>

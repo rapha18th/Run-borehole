@@ -7,7 +7,7 @@ function Home() {
     <>
       <div className="home">
         <h2>
-          East Africa's Number One, <br /> <em>Geological Company</em>
+          Runyararo Consulting, <br /> <em>Geological Company</em>
         </h2>
         <p>
           We specialize in groundwater and environmental investigations, geotechnical
@@ -27,8 +27,8 @@ function Home() {
 
 
       {/* Lower */}
-    
-        
+
+
 
       {/* Lower */}
     </>

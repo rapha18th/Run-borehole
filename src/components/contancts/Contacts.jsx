@@ -20,7 +20,7 @@ function Contacts() {
               <input type="text" placeholder="Kefa Ouma" />
               <div>
                 <input type="text" placeholder="+254723985556" />
-                <input type="email" placeholder="geotruthconsult@gmail.com" />
+                <input type="email" placeholder="Runyararoconsult@gmail.com" />
               </div>
               <textarea
                 placeholder="Your Message"
@@ -60,7 +60,7 @@ function Contacts() {
               <div>
                 <img src="./icon/email.png" />
               </div>
-              <p>info@geotruthconsult.org</p>
+              <p>info@runyararoconsult.co.zw</p>
             </Link>
           </div>
           <div className="cards">
@@ -68,7 +68,7 @@ function Contacts() {
               <div>
                 <img src="./icon/placeholder.png" />
               </div>
-              <p>Acacia Shopping Complex, Ongata Rongai</p>
+              <p>Marlborough</p>
             </Link>
           </div>
         </div>

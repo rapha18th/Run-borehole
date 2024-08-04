@@ -5,7 +5,7 @@ function Cont() {
   return (
     <div className='services-cont'>
         <div className="left">
-            <h6>ARE YOU'RE READY TO GET <em>BEST DEALS FROM GEOTRUTH?</em></h6>
+            <h6>ARE YOU'RE READY TO GET <em>BEST DEALS FROM Runyararo?</em></h6>
             <p>Request a Call Back</p>
         </div>
         <div className="right">

@@ -20,7 +20,7 @@ function Footer() {
             <div className="social">
               <div>
                 <Link
-                  to="https://web.facebook.com/GeoTruthConsult/?rc=p&_rdc=1&_rdr"
+                  to="https://web.facebook.com/RunyararoConsult/?rc=p&_rdc=1&_rdr"
                   target="_blank"
                 >
                   <img src="./icon/facebook.png" />
@@ -29,7 +29,7 @@ function Footer() {
               <div>
                 <Link
                   target="_blank"
-                  to="https://www.linkedin.com/in/geotruth-consult-5052371a5/?originalSubdomain=ke"
+                  to=""
                 >
                   <img src="./icon/linkedin.png" />
                 </Link>
@@ -37,7 +37,7 @@ function Footer() {
               <div>
                 <Link
                   target="_blank"
-                  to="https://www.instagram.com/geotruthconsult1?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+                  to=""
                 >
                   <img src="./icon/instagram.png" />
                 </Link>
@@ -60,17 +60,13 @@ function Footer() {
               <Link to="/ground-water-management-hydrogeology">
                 Ground Water Management and Hydrogeology
               </Link>
-              <Link to="/surface-water-mangemet">
-                Surface Water Management Hydrology
-              </Link>
+
               <Link to="/geotechinical-studies-gis">
                 Geotechinical Studies & GIS
               </Link>
-              <Link to="/mineral-prospecting-resource-mapping">
-                Mineral Prospecting & Resource Mapping
-              </Link>
+
               <Link to="/esia-and-renewable-energy">
-                ESIA & Renewale Energy
+                Solar Power
               </Link>
             </ul>
           </div>
@@ -79,22 +75,22 @@ function Footer() {
             <ul>
               <Link target="_blank" to="tel:+254723985556">
                 <img src="./icon/phone-cal.png" />
-                +254 723 985 556
+                +263 723 985 556
               </Link>
               <Link target="_blank" to="https://wa.link/i5l9rl">
                 <img src="./icon/whatsapp.png" />
-                +254 723 985 556
+                +263 723 985 556
               </Link>
-              <Link target="_blank" to="mailto:info@geotruthconsult.org">
+              <Link target="_blank" to="mailto:info@Runyararoconsult.org">
                 <img src="./icon/email.png" />
-                info@geotruthconsult.org
+                info@Runyararoconsult.co.zw
               </Link>
               <Link
-                to="https://maps.app.goo.gl/6YcEHrNPqWqNtALn6"
+                to=""
                 target="_blank"
               >
                 <img src="./icon/placeholder.png" />
-                Acacia Shopping Complex Off Magadi Road, Ongata Rongai
+                Marlborough
               </Link>
             </ul>
           </div>
@@ -102,8 +98,8 @@ function Footer() {
         <div className="bottom">
           <hr />
           <p>
-            Copyright @ 2024 GeoTruth Consult. <br /> Designed by{" "}
-            <Link to="tel:+254708966189">William Achuchi</Link>
+            Copyright @ 2024 Runyararo Consult. <br /> Designed by{" "}
+            <Link to="tel:+263777414925">Initium Labs</Link>
           </p>
         </div>
       </div>

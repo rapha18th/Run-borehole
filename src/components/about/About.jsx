@@ -15,7 +15,7 @@ function About() {
           <div className="left">
             <div className="vision">
               <h6>Our Vision</h6>
-              <p>GeoTruth Consult aims to be recognised as:</p>
+              <p>Runyararo Consult aims to be recognised as:</p>
               <ul>
                 <li>
                   <img className="mark" src="./icon/checked.png" />A partner of
@@ -44,9 +44,9 @@ function About() {
             <div className="mission">
               <h6>Our Mission</h6>
               <p>
-                GeoTruth Consult provides expert advice and solutions for
+                Runyararo provides expert advice and solutions for
                 clients requiring specialised services, mainly in the fields of
-                groundwater quality and quantity evaluation, geotechnics,
+                groundwater quality and quantity evaluation,
                 renewable energy, wastewater management and the environment.
               </p>
             </div>
@@ -66,7 +66,7 @@ function About() {
             <h6>Our Philosophy</h6>
             <div>
               <p>
-                <em>Clients:</em> GeoTruth Consult believes that, in order to
+                <em>Clients:</em> Runyararo Consult believes that, in order to
                 succeed, we must contribute to the success of our clients. That
                 no client is a percentage of our success but that every project
                 entrusted us succeeds.
@@ -76,18 +76,18 @@ function About() {
                 good as the staff we are able to attract, develop and retain.
               </p>
               <p>
-                <em>Technology:</em> A cornerstone of GeoTruth Consult’s
+                <em>Technology:</em> A cornerstone of Runyararo Consult’s
                 philosophy is to develop and embrace new technologies and
                 methodologies to the advantage of our clients and our business.
               </p>
               <p>
                 <em>Co-operation:</em>
-                GeoTruth Consult fosters collaboration and communication among
+                Runyararo Consult fosters collaboration and communication among
                 its human resources and stakeholders, partnering locally and
                 internationally for optimal client benefit.
               </p>
               <p>
-                <em>Growth:</em> It is GeoTruth Consult’s view that growth of
+                <em>Growth:</em> It is Runyararo Consult’s view that growth of
                 our business must be in response to the requirements of clients.
                 Growth can only be pursued with a carefully selected team.
               </p>
@@ -100,7 +100,7 @@ function About() {
             <div className="right">
               <h6>Our Policy</h6>
               <p>
-                GeoTruth Consult ensures precise identification of optimal
+                Runyararo Consult ensures precise identification of optimal
                 drilling locations, minimizing costs and maximizing success. We
                 deliver value, quality service, and exceed customer expectations
                 by providing expert recommendations to avoid losses.

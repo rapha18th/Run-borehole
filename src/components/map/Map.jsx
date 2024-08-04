@@ -34,7 +34,7 @@ function Map({ apiKey }) {
     {
       lat: -1.3923273360786719,
       lng: 36.67743705336718,
-      text: "Geotruth Consult",
+      text: "Runyararo Consult",
     },
   ];
 

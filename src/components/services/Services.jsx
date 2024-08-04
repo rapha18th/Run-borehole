@@ -18,7 +18,7 @@ function Services() {
             <div className="lower">
               <h6>Groundwater Management & Hydrogeology</h6>
               <p>
-                Aquifer characterisation: depth, thickness, yield and quality
+                 quality
                 assessment before drilling with a high degree of confidence.
               </p>
               <Link to='/ground-water-management-hydrogeology'>Learn More</Link>
@@ -37,42 +37,16 @@ function Services() {
               <Link to='/surface-water-mangemet'>Learn More</Link>
             </div>
           </div>
-          <div className="cards">
-            <div className="upper">
-              <img src="./image/gis.webp" />
-            </div>
-            <div className="lower">
-              <h6>Geotechnical Studies & GIS</h6>
-              <p>
-                Cave and void detection for heavy machinery,Dam and levee
-                inspection to locate points of leakage, Overburden thickness for
-                foundation
-              </p>
-              <Link to='/geotechinical-studies-gis'>Learn More</Link>
-            </div>
-          </div>
-          <div className="cards">
-            <div className="upper">
-              <img src="./image/mineral.webp" />
-            </div>
-            <div className="lower">
-              <h6>Mineral Prospecting & Resource Mapping</h6>
-              <p>
-                Industrial minerals and rocks; construction rocks quarry,
-                assessments and valuation, Hydrocarbons; geothermal vents
-              </p>
-              <Link to='/mineral-prospecting-resource-mapping'>Learn More</Link>
-            </div>
-          </div>
+
+
           <div className="cards">
             <div className="upper">
               <img src="./image/esia.webp" />
             </div>
             <div className="lower">
-              <h6>ESIA and Renewable Energy</h6>
+              <h6>Solar Power</h6>
               <p>
-                ESIA studies for proposed groundwater and development projects,
-                Energy Audits, Solar Systems design and installation:
+                 Solar Systems design and installation:
               </p>
               <Link to='/esia-and-renewable-energy'>Learn More</Link>
             </div>
@@ -84,7 +58,7 @@ function Services() {
 
       <div className="why">
         <div className="top">
-          <h4>Why Choose GeoTruth?</h4>
+          <h4>Why Choose Runyararo?</h4>
         </div>
         <div className="bottom">
           <div className="cards">
