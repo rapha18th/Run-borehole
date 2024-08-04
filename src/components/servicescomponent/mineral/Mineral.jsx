@@ -17,7 +17,7 @@ function Mineral() {
             </div>
             <div className="two">
               <h6>
-                We're East Africa's Premier Mineral Prospecting and Resource
+                We're Zimbabwe's Premier Mineral Prospecting and Resource
                 Mapping Experts, Transforming Prospects into Valuable Assets.
               </h6>
               <p>

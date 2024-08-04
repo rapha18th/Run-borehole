@@ -58,7 +58,7 @@ function Header() {
             <Link to="/about-us">About Us</Link>
           </li>
           <li>
-            <Link to="/contanct-us">Contanct Us</Link>
+            <Link to="/contanct-us">Contact Us</Link>
           </li>
         </ul>
         <Link to="/get-a-free-qoute" className="get">

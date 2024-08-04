@@ -73,7 +73,7 @@ function Footer() {
           <div className="card contancts">
             <h6>Contanct Info</h6>
             <ul>
-              <Link target="_blank" to="tel:+254723985556">
+              <Link target="_blank" to="tel:+263723985556">
                 <img src="./icon/phone-cal.png" />
                 +263 723 985 556
               </Link>

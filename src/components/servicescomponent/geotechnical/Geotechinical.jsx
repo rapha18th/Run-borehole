@@ -17,7 +17,7 @@ function Geotechinical() {
             </div>
             <div className="two">
               <h6>
-                We're East Africa's Premier Geotechnical Studies Experts,
+                We're Zimbabwe's Premier Geotechnical Studies Experts,
                 Turning Groundwork into Concrete Solutions
               </h6>
               <p>

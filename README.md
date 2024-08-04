@@ -5,19 +5,6 @@
  * React
  * Email Js
 
-
-### Home Page
-
-![Image One](public/geo3.png)
-
-### About Page
-
-![Image Two](public/geo2.png)
-
-### Contact Form
-
-![Image Three](public/geo1.png)
-
 This repository contains the source code for a Borehole Drilling website, implemented as a single page application (SPA) using REACT.
 
 

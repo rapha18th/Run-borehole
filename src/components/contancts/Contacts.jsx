@@ -19,7 +19,7 @@ function Contacts() {
             <form>
               <input type="text" placeholder="Kefa Ouma" />
               <div>
-                <input type="text" placeholder="+254723985556" />
+                <input type="text" placeholder="+263723985556" />
                 <input type="email" placeholder="Runyararoconsult@gmail.com" />
               </div>
               <textarea
@@ -44,7 +44,7 @@ function Contacts() {
               <div>
                 <img src="./icon/phone-cal.png" />
               </div>
-              <p>+254 723 985 556</p>
+              <p>+263 723 985 556</p>
             </Link>
           </div>
           <div className="cards">
@@ -52,7 +52,7 @@ function Contacts() {
               <div>
                 <img src="./icon/whatsapp.png" />
               </div>
-              <p>+254 723 985 556</p>
+              <p>+263 723 985 556</p>
             </Link>
           </div>
           <div className="cards">

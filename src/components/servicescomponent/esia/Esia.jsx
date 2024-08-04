@@ -17,7 +17,7 @@ function Esia() {
             </div>
             <div className="two">
               <h6>
-                We're East Africa's Foremost Environmental and Social Impact
+                We're Zimbabwe's Foremost Environmental and Social Impact
                 Assessment (ESIA) Specialists, Transforming Environmental
                 Insights into Sustainable Energy Solutions
               </h6>

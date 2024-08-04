@@ -18,7 +18,7 @@ function Groundwater() {
             </div>
             <div className="two">
               <h6>
-                We're East Africa's Best Borehole Drealling Experts, We make
+                We're Zimbabwe's Best Borehole Drealling Experts, We make
                 Dreams Come to Life.
               </h6>
               <p>

@@ -18,7 +18,7 @@ function Testimonial() {
               decisions, significantly enhancing safety and efficiency. Highly
               recommended"
             </p>
-            <h6>Michael Wanjala </h6>
+            <h6>Michael Gono </h6>
           </div>
           <div className="cards">
             <img src="./image/one.jfif" />

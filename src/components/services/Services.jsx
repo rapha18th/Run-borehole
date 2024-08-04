@@ -41,7 +41,7 @@ function Services() {
 
           <div className="cards">
             <div className="upper">
-              <img src="./image/esia.webp" />
+              <img src="./image/solar.webp" />
             </div>
             <div className="lower">
               <h6>Solar Power</h6>

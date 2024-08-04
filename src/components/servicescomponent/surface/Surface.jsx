@@ -17,7 +17,7 @@ function Surface() {
             </div>
             <div className="two">
               <h6>
-                We're East Africa's Premier Surface Water Management
+                We're Zimbabwe's Premier Surface Water Management
                 Specialists, Turning Visions into Reality
               </h6>
               <p>
