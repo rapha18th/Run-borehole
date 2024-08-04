@@ -19,7 +19,7 @@ function Home() {
           <Link className="home-about" to='/about-us'>Read More</Link>
         </div>
         <div className="home-fixed">
-          <Link to="https://wa.link/i5l9rl" target="_blank">
+          <Link to="" target="_blank">
              <img src="./icon/whatsapp.png" className="call-fixed" />
           </Link>
         </div>
